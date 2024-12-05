@@ -1,4 +1,4 @@
-<h1 align="center">「☣」 About kill-floor</h1>
+<h1 align="center">「☣」 About kill-floor.exe</h1>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d4dbe1f0-2cea-42b2-af30-141e14b7bed0"></p>
 
