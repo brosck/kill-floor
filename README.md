@@ -9,6 +9,7 @@ When the malware starts, it drops a driver in the path `C:\Users\Default\AppData
 The same driver had been used in one of the AvosLocker ransomware group's campaigns in mid-May 2022, published by [Trend Micro](https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html). This driver has now been updated and defense solutions already have the driver on their blacklist.
 
 **Note**: This is not the official code for the kill-floor.exe malware, it is just a recreation made by me while I was analyzing the binary.
+This is the [original malware sample](https://bazaar.abuse.ch/sample/e882af8b945c92e5a7dd337378e6a8bffc2b93f1e2719e853d756123cc8ab947/)
 
 ## Demo
 
