@@ -23,3 +23,4 @@ This is the [original malware sample](https://bazaar.abuse.ch/sample/e882af8b945
 * https://www.joesandbox.com/analysis/1562334/1/html
 * https://bazaar.abuse.ch/sample/e882af8b945c92e5a7dd337378e6a8bffc2b93f1e2719e853d756123cc8ab947/
 * https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html
+
